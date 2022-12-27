@@ -21,4 +21,4 @@ Sources : https://www.youtube.com/watch?v=whVK24ys14E
 
 ## Notion
 
- Link : https://www.notion.so/Swipe-Brick-Breaker-22626bb916f24df280de445e5ea4f72f
+### [Link](https://www.notion.so/Swipe-Brick-Breaker-22626bb916f24df280de445e5ea4f72f)
