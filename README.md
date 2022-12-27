@@ -1,4 +1,4 @@
-# Swipe-Brick-Breaking
+# Swipe-Brick-Breaker
 ---
 
 ## Preview  
