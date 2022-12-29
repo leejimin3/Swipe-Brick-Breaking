@@ -16,7 +16,7 @@ Unity + Visual Studio
 The project was created using resources from the Play Store game "Swipe Brick Breaker".  
 The project was developed by referring to the video on YouTube "Gorani TV".  
 
-Sources : https://www.youtube.com/watch?v=whVK24ys14E
+Sources : [Link](https://www.youtube.com/watch?v=whVK24ys14E)
 
 ## Notion
 
